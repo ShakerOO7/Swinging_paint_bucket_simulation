@@ -1,4 +1,4 @@
-# Swinging paint bucket simulation<br />
+# Swinging paint bucket simulation using Unity3D<br />
 ### Run the GUI scene to start the simulation.<br />
 -Fluid simulation using SPH(Smoothed Particle Hydrodynamics) algorithm:<br />
         https://cg.informatik.uni-freiburg.de/publications/2014_EG_SPH_STAR.pdf<br />
